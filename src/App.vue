@@ -15,6 +15,7 @@ import LoginStatusComponent from "./components/LoginStatusComponent.vue";
     <RouterLink to="/"> Main </RouterLink>
     <RouterLink to="/login"> Login </RouterLink>
     <RouterLink to="/mypage"> MyPage </RouterLink>
+    <RouterLink to="/sample"> Sample </RouterLink>
   </nav>
 
 
